@@ -22,3 +22,4 @@ Este é um aplicativo mobile desenvolvido em React Native com o objetivo de calc
 - Interface responsiva e intuitiva
 
 
+![image](https://github.com/user-attachments/assets/e1215bae-77db-4313-a457-1e6def8ff797)
